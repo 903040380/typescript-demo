@@ -8,7 +8,7 @@ string 类型包含 null 与 undefined
 
 ### unique symbol
 
-独一无二的类型
+独一无二的类型，symbol 的子集
 
 ## void
 
