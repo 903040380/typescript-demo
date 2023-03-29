@@ -57,7 +57,7 @@ TypeScript 中的重载更像是伪重载，它只有一个具体实现，其重
 
 ### 异步函数、Generator 函数等类型签名
 
-异步为 Promise<T>,迭代器不重要
+异步为 `Promise<T>`,迭代器不重要
 
 ## Class
 
